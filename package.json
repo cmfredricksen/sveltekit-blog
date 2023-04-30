@@ -34,6 +34,9 @@
 		"@fontsource/manrope": "^4.5.13",
 		"lucide-svelte": "^0.187.0",
 		"open-props": "^1.5.8",
+		"rehype-slug": "^5.1.0",
+		"remark-toc": "^8.0.1",
+		"remark-unwrap-images": "^3.0.1",
 		"shiki": "^0.14.2"
 	}
 }
